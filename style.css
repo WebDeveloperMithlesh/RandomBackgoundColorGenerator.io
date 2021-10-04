@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: inherit;
+}
+.container{
+    text-align: center;
+    color: #fff;
+    display: grid;
+    place-content: center;
+    min-height: 345px;
+    background-color: #002;
+}
+.btn{
+    padding: 1.2rem;
+    margin: 1rem;
+}
+.btn:hover{
+    cursor: pointer;
+}
